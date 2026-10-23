@@ -1,5 +1,3 @@
-package cumbe.modelo;
-
 /**
  * Shake de 500ml, com leite de vaca ou de coco e até 2 frutas.
  * Herda de Sobremesa. O sabor define o preço base e cada fruta
