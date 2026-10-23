@@ -1,8 +1,3 @@
-package cumbe.app;
-
-import cumbe.modelo.Acai;
-import cumbe.modelo.Shake;
-import cumbe.modelo.Sobremesa;
 /**
  * Programa principal do Ponto de Venda Cumbe Açaí e Shake.
  * Mostra o menu, monta os pedidos, mostra o valor a pagar
