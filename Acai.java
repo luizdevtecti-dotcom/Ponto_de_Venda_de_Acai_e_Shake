@@ -1,5 +1,3 @@
-package cumbe.modelo;
-
 /**
  * Açaí vendido em 300ml ou 500ml, com até 3 complementos.
  * Herda de Sobremesa. O tamanho define o preço base e cada
