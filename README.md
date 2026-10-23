@@ -56,7 +56,7 @@ Tabela de preços que eu usei (o enunciado não deu valores, então inventei):
 
 ## Como rodar
 
-Pelo IntelliJ: abrir o projeto e rodar a classe `Main` (pacote `cumbe.app`).
+Pelo IntelliJ: abrir o projeto e rodar a classe `Main`.
 
 Pelo terminal, na pasta do projeto:
 
