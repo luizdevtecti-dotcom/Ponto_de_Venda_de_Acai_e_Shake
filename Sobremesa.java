@@ -1,5 +1,3 @@
-package cumbe.modelo;
-
 /**
  * Classe abstrata que serve de base para tudo que a loja vende.
  * Guarda o que Açaí e Shake têm em comum: nome, tamanho e preço base.
